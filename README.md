@@ -8,7 +8,7 @@ This theme is the best suited for business, landing page, portfolio, ecommerce, 
 
 ## License
 
-This theme is licensed under GPLv3. You can feel free to modify it as loon gas you keep the original copyright information.
+This theme is licensed under Apachev2.0. You can feel free to modify it as loon gas you keep the original copyright information.
 
 ## Demo
 Website: [dev.outh.ml](http://dev.outh.ml)
